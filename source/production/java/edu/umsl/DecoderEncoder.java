@@ -2,7 +2,6 @@ package edu.umsl;
 
 import org.apache.commons.codec.binary.Base64;
 
-
 public class DecoderEncoder {
     public static void main(String[] args) {
         String input = "SSBsb3ZlIG15IENNUCBTQ0kgMjI2MSBjbGFzcyBzbyBtdWNoLCBJIHdpc2ggSSBjb3VsZCBiZSBqdXN0IGFzIGNvb2wgYXMgbXkgcHJvZmVzc29y";
